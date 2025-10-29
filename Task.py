@@ -15,7 +15,7 @@ def view_tasks():
 def delete_task(task_number):
     if 1 <= task_number <= len(tasks):
         removed_task = tasks.pop(task_number - 1)
-        print(f"Task '{removed_task}' deleted!")
+        print(f"Task '{removed_task}' deleted successfully!")
     else:
         print("Invalid task number.")
 
