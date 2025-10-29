@@ -39,4 +39,4 @@ while True:
         print("Goodbye!")
         break
     else:
-        print("Invalid choice, try again.")
+        print("Invalid choice, pls try again.")
