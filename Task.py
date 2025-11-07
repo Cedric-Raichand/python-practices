@@ -17,7 +17,7 @@ def delete_task(task_number):
         removed_task = tasks.pop(task_number - 1)
         print(f"Task '{removed_task}' deleted successfully!")
     else:
-        print("Invalid task number.")
+        print(" Please Invalid task number.")
 
 while True:
     print("\n1. Add Task\n2. View Tasks\n3. Delete Task\n4. Exit")
