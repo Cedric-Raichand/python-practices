@@ -1,6 +1,6 @@
 
-utensils = {"knife","spoon","fork"}
-dishes = {"napkin","bowl","plate"}
+utensils = {"knife","spoon","fork","ladel"}
+dishes = {"napkin","bowl","plate","cup"}
 utensils.update(dishes)
 print(utensils)
 print()
