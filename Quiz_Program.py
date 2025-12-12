@@ -2,7 +2,7 @@
 
 score = 0
 
-print("=== Welcome to today's Quiz ===\n")
+print("== Welcome to today's Quiz ==\n")
 
 
 print("1. What is the capital of France?")
