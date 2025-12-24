@@ -2,7 +2,7 @@
 
 score = 0
 
-print("== Welcome to today's Quiz ==\n")
+print(" Welcome to today's Quiz \n")
 
 
 print("1. What is the capital of France?")
@@ -50,5 +50,5 @@ else:
 
 
 
-print("=== QUIZ COMPLETED ===")
+print(" QUIZ COMPLETED ")
 print(f"You scored {score} out of 3!")
