@@ -40,7 +40,7 @@ def test_password():
         print("Tip: Mix uppercase, numbers & symbols.")
     else:
         print("STRONG 🔥")
-        print("Excellent password.")
+        print("Excellent password ✔️.")
 
 
 def main():
