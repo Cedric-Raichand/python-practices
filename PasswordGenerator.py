@@ -4,10 +4,10 @@ import string
 
 
 def generate_password(length):
-    # Characters to use in the password
+
     characters = string.ascii_letters + string.digits + string.punctuation
 
-    # Randomly choose characters from the pool
+
     password = ''.join(random.choice(characters) for _ in range(length))
     return password
 
