@@ -1,6 +1,6 @@
-food = ["Pizza", "cheese", "burger","coke"]
-dinner = ["Breakfast", "lunch", "dinner"]
-cars = ["Benz","bmw","Range rover","audi","ford"]
+food = ["Pizza", "Cheese", "Burger","Coke"]
+dinner = ["Breakfast", "Lunch", "Dinner"]
+cars = ["Benz","BMW","Range Rover","Audi","Ford","Toyota"]
 all_things =[food,dinner,cars]
 print(all_things)
 for i in all_thins:
