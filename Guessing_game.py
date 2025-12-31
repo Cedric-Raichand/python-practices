@@ -3,7 +3,7 @@ import random
 secret_number = random.randint(1, 100)
 attempts = 0
 
-print("Welcome to the Number Guessing Game!")
+print("Welcome to the Number Guessing Game")
 print("I am thinking of a number between 1 and 100.")
 
 while True:
